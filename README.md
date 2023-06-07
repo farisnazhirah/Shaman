@@ -15,6 +15,5 @@ Tampilan Utama                              | Tampilan Kata                     
 Nama            | Username Github | Posisi
 ----------------|-----------------|-----------
 Nama Muhammad Faris Nazhirah Rozi | farisnazhirah    | Mahasiswa
-
 Amir Hasanudin Fauzi | usernamePbb     | Pembimbing
 Nama Reviewer   | usernameRev     | Reviewer
